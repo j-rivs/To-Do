@@ -123,7 +123,7 @@ select {
 }
 
 .select::after {
-    content: "\25bc";
+    content: "\25BC";
     position: absolute;
     background: #f67a58;
     top: 0;
